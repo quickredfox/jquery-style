@@ -1,7 +1,9 @@
 # jQuery Style Plugin v0.0.1 #
 
 Author: Francois Lafortune, @quickredfox.
+
 Copyright &copy; 2010-Present, Kindo Communications Inc.
+
 Licensed under the MIT license
 
 Takes a CSS string and embeds as stylesheet within current document ( Yes! U can haz pseudo selectors and css3 )
